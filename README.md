@@ -2,7 +2,7 @@
 
 Highlight/scrape sections of question and answer pairs from web pages
 
-![](FAQScraperDemo.gif)
+![](faqscraperdemo.gif)
 
 ## Questions, Comments, Suggestions
 Email me at chris.ismael@gmail.com
