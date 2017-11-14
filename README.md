@@ -2,7 +2,7 @@
 
 Highlight/scrape sections of question and answer pairs from web pages
 
-![](https://github.com/concurlabs/faq-scraper/blob/master/FAQScraperDemo.gif)
+![](https://github.com/concurlabs/faq-scraper/blob/master/faqscraperdemo00.gif)
 
 ## Questions, Comments, Suggestions
 Email me at chris.ismael@gmail.com
